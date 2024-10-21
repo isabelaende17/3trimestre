@@ -12,3 +12,9 @@ criaCartao(
     'Quando usar o phyton?',
     'Podemos usar em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning'
 )
+criaCartao(
+    'Sensores',
+    'O que são sensores na robótica?',
+    'Sensores são os dispositivos que detetam alterações no ambiente e produzem uma resposta.'
+    
+)
